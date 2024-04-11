@@ -13,7 +13,7 @@ public class Ejercicio5 {
       System.out.print(num + " ");
       suma += num;
     }
-
+//mas cosas nasis
     if (num < minimo) {
       minimo = num;
     }
